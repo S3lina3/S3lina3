@@ -11,11 +11,7 @@ Here you can find the projects I did during my bootcamp and projects I'm involve
 
 🕺🏻 My EDA Project: [Youtube Top 100](https://github.com/S3lina3/My_Projects/blob/main/youtube_EDA.ipynb)
 
-
-I use
-![python](https://www.python.org/static/img/python-logo@2x.png) ![SQL](https://www.postgresql.org/media/img/about/press/elephant.png)
-
-& you can reach me 📩 via s.emminger@gmx.de
+I do 🐍 Python, 🐘 SQL & ✨ Tableau & you can reach me via s.emminger@gmx.de
 
 
 
