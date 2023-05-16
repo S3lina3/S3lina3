@@ -11,7 +11,7 @@ My EDA project: [Analysis of logistics in cereal production](https://github.com/
 
 My tiny EDA Project: [Youtube Top 100](https://github.com/S3lina3/My_Projects/blob/main/youtube_EDA.ipynb)
 
-I do 🐍 Python, 🐘 SQL & ✨ Tableau & you can reach me via s.emminger@gmx.de
+I do 🐍 Python, 🐘 SQL & ✨ Tableau & you can reach me via s.emminger@gmx.de or [linkedin](https://www.linkedin.com/in/selina-emminger/)
 
 
 
